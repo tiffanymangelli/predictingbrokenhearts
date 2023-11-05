@@ -1,0 +1,7 @@
+streamlit
+pandas
+pickle5 # If you are using Python 3.8 or below, 'pickle' is part of the standard library and does not need to be included.
+joblib
+base64 # 'base64' is also part of the standard library and does not need to be included.
+numpy # This is often a dependency for other libraries like pandas and scikit-learn.
+scikit-learn # If your 'hearts_knnmodel.pkl' file is a model created using scikit-learn.
